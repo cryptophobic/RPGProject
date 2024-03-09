@@ -4,7 +4,7 @@
 #include "Character/AuraCharacterBase.h"
 
 // Sets default values
-AAuraCharacterBase::AAuraCharacterBase()	
+AAuraCharacterBase::AAuraCharacterBase()
 {
 	PrimaryActorTick.bCanEverTick = false;
 
